@@ -1,2 +1,2 @@
 # grpc-server
-grpc server for my grpc app demo
+grpc server for my grpc app.
