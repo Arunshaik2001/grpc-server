@@ -1,6 +1,6 @@
 # grpc-server
 grpc server for my grpc app.
-you need node.js
+you need node.js. so pls install node.js first
 
 Just do:
 
